@@ -1,6 +1,5 @@
 ## Olá eu sou o Felipe Fortunato
 
-- 🔭 Busco meu primeiro estágio na área
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 <div>
   <a href= "https:github.com/felipefortunato1">
